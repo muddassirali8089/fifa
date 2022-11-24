@@ -1,0 +1,28 @@
+#top{
+
+    height: auto;
+    width: 100vw;
+   
+}
+#btm{
+
+   
+    width: 100vw;
+    height: auto;
+
+    
+}
+
+#Aside{
+   background-color: rgb(241, 241, 245);
+}
+#middletop{
+    background-color: blue;
+}
+#middle{
+
+    height: auto;
+}
+#rightside{
+    height: auto;
+}

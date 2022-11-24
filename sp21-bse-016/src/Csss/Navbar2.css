@@ -1,0 +1,38 @@
+
+
+#nav2{
+
+   
+   /* margin-top: 12vh;  */
+
+
+    
+    
+    width: 100vw;
+    height: 15vh;
+    
+    display: flex;
+    justify-content:center;
+    align-items:center;
+  background-color: blanchedalmond;
+ 
+  
+    
+}
+ ul {
+    
+    display: flex;
+    margin: 0px;
+    
+}
+li{
+
+    list-style: none;
+    margin-right: 30px;
+    padding: 0px;
+}
+
+
+
+
+

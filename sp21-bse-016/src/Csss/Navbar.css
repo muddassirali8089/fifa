@@ -1,0 +1,43 @@
+
+.logo{
+    color: blue;
+    justify-content: center;
+    display: flex;
+    margin-left: 45vw;
+}
+
+
+nav{
+
+
+   
+
+
+    z-index: 1;
+     height: 90px; 
+     width: 100vw;
+    
+    display: flex;
+     justify-content:space-between; 
+    align-items:center;
+   background-color: aliceblue;
+   
+  top: 0px;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+  
+    
+}
+ ul {
+    
+    display: flex;
+    margin: 0px;
+    
+}
+li{
+
+    list-style: none;
+    margin-right: 30px;
+    padding: 0px;
+}

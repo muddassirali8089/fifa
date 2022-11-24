@@ -1,0 +1,33 @@
+#midt{
+
+
+      
+    background-color: rgb(189, 189, 202);   
+    
+    
+    
+     display: flex; 
+     justify-content: center;
+      flex-wrap: wrap;  
+        
+    /* padding-inline: 7%;   */
+    
+    
+       
+    
+       
+    }
+    #cards{
+    
+        margin: 15px;
+         
+           
+     
+         justify-content: end;
+         display: table-row-group;
+        
+         
+       
+         
+         
+      }
