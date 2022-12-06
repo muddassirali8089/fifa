@@ -6,6 +6,7 @@ import Middletop from "./Middletop";
 import Aside from "./Aside";
 import Middlebtm from "./Middlebtm";
 import Footer from "./Footer";
+
 const Grid = () => {
     return ( 
 
