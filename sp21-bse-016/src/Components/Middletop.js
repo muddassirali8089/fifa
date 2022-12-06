@@ -113,7 +113,7 @@ console.log("clicked");
       data: "Fifa World Cup 2022",
     },
     {
-      id: "3",
+      id: "4",
       image: (
         <img
           src={require("../imagesT/ronaldo.jfif")}
@@ -124,7 +124,7 @@ console.log("clicked");
       data: "Fifa World Cup 2022",
     },
     {
-      id: "3",
+      id: "5",
       image: (
         <img
           src={require("../imagesT/img3.jfif")}
@@ -136,7 +136,7 @@ console.log("clicked");
     },
 
     {
-      id: "3",
+      id: "6",
       image: (
         <img
           src={require("../imagesT/ronaldo2.jfif")}
